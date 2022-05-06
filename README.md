@@ -14,7 +14,7 @@ ___
 
 - ###### [HTML & CSS & JS Course](https://github.com/Bewenben/FruitMarket/tree/e5cccb221b3262f50667af9f00aa7e5522e7e90d)
 
-- ###### [Demo Project Frontend 1](https://github.com/Bewenben/Website-Projects/tree/main/Demo%20Project%20Frontend%201)
+- ###### [Demo Project Frontend 1](https://github.com/Bewenben/DemoProject1/tree/0faf386c0424a1f466b76bc25f9920c4bba24cef)
 
 ### Here are the private repos:
 
