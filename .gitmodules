@@ -4,3 +4,6 @@
 [submodule "HTML-CSS-JS-Course"]
 	path = HTML & CSS & JS Course
 	url = https://github.com/Bewenben/HTML-CSS-JS-Course.git
+[submodule "DemoProject1"]
+	path = Demo Project Frontend 1
+	url = https://github.com/Bewenben/DemoProject1.git
