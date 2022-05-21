@@ -7,3 +7,6 @@
 [submodule "DemoProject1"]
 	path = Demo Project Frontend 1
 	url = https://github.com/Bewenben/DemoProject1.git
+[submodule "ReactCourse"]
+	path = React Course freecodecamp
+	url = https://github.com/Bewenben/ReactCourse.git
