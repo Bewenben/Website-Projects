@@ -10,3 +10,6 @@
 [submodule "ReactCourse"]
 	path = React Course freecodecamp
 	url = https://github.com/Bewenben/ReactCourse.git
+[submodule "IEEE AAST/frontend"]
+	path = IEEE AAST/Front-end
+	url = https://github.com/IEEEAAST/frontend.git
