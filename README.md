@@ -21,6 +21,8 @@ ___
 - ###### MSI Keyboard Typing Speed
 
   - Note: This project is already finished and deployed in the web, it is only private because it was used for a contest, click [here](https://ieeeaast.org/msi) to check it out.
+  
+- ###### IEEE AAST Website
 
 If you would like to access the private repos and watch the development of any project, feel free to contact me privately:
 
