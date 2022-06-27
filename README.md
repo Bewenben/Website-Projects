@@ -16,12 +16,10 @@ ___
 
 - ###### [Demo Project Frontend 1](https://github.com/Bewenben/DemoProject1/tree/0faf386c0424a1f466b76bc25f9920c4bba24cef)
 
+- ###### MSI Keyboard Typing Speed(https://github.com/Bewenben/MSI-Keyboard-Typing-Speed/tree/b65630ddc513bc4166fd1fb8f7af10d07b33ba43)
+
 ### Here are the private repos:
 
-- ###### MSI Keyboard Typing Speed
-
-  - Note: This project is already finished and deployed in the web, it is only private because it was used for a contest, click [here](https://ieeeaast.org/msi) to check it out.
-  
 - ###### IEEE AAST Website
 
 If you would like to access the private repos and watch the development of any project, feel free to contact me privately:
